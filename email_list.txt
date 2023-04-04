@@ -1,0 +1,6 @@
+john.doe@example.com
+jane.doe@example.com
+joe.smith@gmail.com
+jenny.smith@gmail.com
+bob.johnson@example.com
+alice.johnson@example.com

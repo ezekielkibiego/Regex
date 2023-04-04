@@ -1,0 +1,1 @@
+Write a Python program that reads in a list of email addresses from a text file and extracts the domain names of each email address using regular expressions. The program should output a list of unique domain names sorted alphabetically.
